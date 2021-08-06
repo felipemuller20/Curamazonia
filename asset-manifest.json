@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Curamazonia/static/css/main.dc51c8ba.chunk.css",
+    "main.js": "/Curamazonia/static/js/main.69b49b7c.chunk.js",
+    "main.js.map": "/Curamazonia/static/js/main.69b49b7c.chunk.js.map",
+    "runtime-main.js": "/Curamazonia/static/js/runtime-main.e135a8ab.js",
+    "runtime-main.js.map": "/Curamazonia/static/js/runtime-main.e135a8ab.js.map",
+    "static/js/2.874521dc.chunk.js": "/Curamazonia/static/js/2.874521dc.chunk.js",
+    "static/js/2.874521dc.chunk.js.map": "/Curamazonia/static/js/2.874521dc.chunk.js.map",
+    "static/js/3.3ddeed42.chunk.js": "/Curamazonia/static/js/3.3ddeed42.chunk.js",
+    "static/js/3.3ddeed42.chunk.js.map": "/Curamazonia/static/js/3.3ddeed42.chunk.js.map",
+    "index.html": "/Curamazonia/index.html",
+    "static/css/main.dc51c8ba.chunk.css.map": "/Curamazonia/static/css/main.dc51c8ba.chunk.css.map",
+    "static/js/2.874521dc.chunk.js.LICENSE.txt": "/Curamazonia/static/js/2.874521dc.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/Curamazonia/static/media/floresta.fdc810ad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e135a8ab.js",
+    "static/js/2.874521dc.chunk.js",
+    "static/css/main.dc51c8ba.chunk.css",
+    "static/js/main.69b49b7c.chunk.js"
+  ]
+}
