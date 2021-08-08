@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../components/Header';
 import '../components/about.css';
+import { Link } from 'react-router-dom';
 
 function About() {
   return (
@@ -46,6 +47,9 @@ function About() {
           </div>
         </main>
       </div>
+      <footer>
+        <Link to='/doar'>Doe uma árvore!</Link>
+      </footer>
     </div>
   );
 }
