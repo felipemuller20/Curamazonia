@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 .about-container {
   position: relative;
   height: 100vh;
@@ -45,6 +49,10 @@
   font-size: large;
   padding: 0 50px;
   margin-top: 15px;
+  overflow: hidden;
+  overflow-y: scroll;
+  max-height: 80vh;
+  width: 40vw;
 }
 
 .about-titles {
@@ -53,6 +61,7 @@
 
 .aboutParagraph {
   display: flex;
+  justify-content: space-evenly;
 }
 
 footer {
