@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 /* .body-about {
   background-image: url('../images/floresta.jpg');
   background-repeat: repeat;
@@ -24,7 +29,7 @@
   background-repeat: repeat;
   background-size: cover;
   background-position: top center;
-  opacity: 0.5;
+  opacity: 0.3;
 }
 
 /* .about-container:after {
@@ -37,11 +42,6 @@
   display: block;
 } */
 
-.main-about {
-  margin: auto;
-  padding: 10px;
-}
-
 .about-titles h1, .about-titles h2, .aboutParagraph p {
   color: black;
   position: relative;
@@ -49,7 +49,7 @@
 
 .about-titles h1 {
   font-size: 80px;
-  margin: auto;
+  /* margin: auto; */
   padding: 0;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #000;
@@ -57,15 +57,15 @@
 
 .about-titles h2 {
   font-size: 50px;
-  margin-top: 5px;
+  /* margin-top: 5px; */
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #000;
 }
 
 .aboutParagraph p {
-  font-size: x-large;
-  padding: 0 30px;
-  margin-top: 0;
+  font-size: medium;
+  padding: 0 50px;
+  margin-top: 15px;
 }
 
 .about-titles {
