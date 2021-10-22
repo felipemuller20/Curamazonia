@@ -4,7 +4,7 @@
 
 Este é um projeto que está em desenvolvimento, utilizando React.JS.
 
-O intuito deste programa é criar uma aplicação WEB onde será possível realizar doações que serão destinadas inteiramente para ONGs que realizam plantações de árvores na floresta amazônica.
+O intuito é criar uma aplicação WEB onde será possível realizar doações que serão destinadas inteiramente para ONGs que realizam plantações de árvores na floresta amazônica.
 
 Além disso, trará informações sobre fauna e flora da região.
 
